@@ -24,6 +24,7 @@ import java.lang.invoke.MethodHandles;
 import java.util.Arrays;
 import java.util.stream.Collectors;
 
+import org.apache.tomcat.jni.SSL;
 import org.apache.tomcat.util.compat.JrePlatform;
 
 import java.lang.foreign.*;
